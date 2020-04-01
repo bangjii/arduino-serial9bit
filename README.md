@@ -7,6 +7,7 @@
 3. Replace with files in HardwareSerial9bit folder
 
 How To Use?
+```
 /*
   Using arduino mega, because there's more than one serial hardware
   - Serial 0 for debug printing
@@ -24,3 +25,4 @@ void loop (){
     Serial.println((int) Serial2.read (), HEX);
   }
 }
+```
