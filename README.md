@@ -10,8 +10,8 @@ How To Use?
 ```
 /*
   Using arduino mega, because there's more than one serial hardware
-  - Serial 0 for debug printing
-  - Serial 2 for serial 9 bit reading
+  - Serial 0 for debug printing (serial from usb)
+  - Serial 2 for serial 9 bit reading (serial from 16, 17 arduino)
 */
 void setup (){
   Serial.begin (115200);  // debugging prints
