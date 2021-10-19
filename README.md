@@ -26,3 +26,20 @@ void loop (){
   }
 }
 ```
+
+# issues
+
+https://forum.arduino.cc/t/solved-9-bit-serial-problem/496726/4
+- SOLVED() using leonardo board
+- https://forum.arduino.cc/t/mods-to-hardwareserial-to-handle-9-bit-data/89447/20
+
+https://github.com/manuel-rabade/Alt9SoftSerial/issues/1
+- From this url https://forum.arduino.cc/t/9-bit-software-hardware-serial/590266/13
+- Using arduino pro micro (leonardo maybe).
+
+https://github.com/nzin/xpressnet_arduino
+- From this url https://forum.arduino.cc/t/9-bit-serial-implementation/104449
+- Using arduino mega 2560 and Max485cpa chip.
+
+https://forum.arduino.cc/t/uart-with-9-bits/612497
+
