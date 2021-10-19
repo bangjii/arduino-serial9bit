@@ -43,3 +43,4 @@ https://github.com/nzin/xpressnet_arduino
 
 https://forum.arduino.cc/t/uart-with-9-bits/612497
 
+https://github.com/addibble/SoftwareSerial9
